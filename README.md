@@ -1,6 +1,6 @@
 # x37
 
-[`x37`][x37] is an end-to-end private cloud system.
+[`x37`](x37) is an end-to-end private cloud system.
 
 # goals
 
@@ -72,6 +72,6 @@ an end-to-end private cloud system:
 - can be run on low quality connections
 - built on openbsd
 
-[z37]: https://z37.org
+[x37]: https://diagonal.systems/docs/x37
 [cloud-giants]: https://www.dndbeyond.com/monsters/cloud-giant
 [k3s-arch]: https://rancher.com/docs/k3s/latest/en/architecture
